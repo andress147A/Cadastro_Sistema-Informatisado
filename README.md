@@ -38,3 +38,4 @@ EncontrarTrechosMaisMenosRequisitados(nomePlanilha As String):
 
 Identifica os trechos mais e menos populares da planilha.
 O código automatiza a exportação de dados e a geração de gráficos a partir de informações contidas nas planilhas do Excel.
+
